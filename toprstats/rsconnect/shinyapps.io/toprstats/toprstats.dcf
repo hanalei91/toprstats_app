@@ -1,0 +1,13 @@
+name: toprstats
+title: toprstats
+username:
+account: toprstats
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7831392
+bundleId: 6608077
+url: https://toprstats.shinyapps.io/TopRStats/
+when: 1670464443.93389
+lastSyncTime: 1670464443.9339
+asMultiple: FALSE
+asStatic: FALSE
